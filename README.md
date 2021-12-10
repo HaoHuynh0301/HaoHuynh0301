@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Hao
+- 🔭 I’m student at CanTho University
+- 🌱 I’m currently learning Django
 
+### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoHuynh0301&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHuynh0301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
