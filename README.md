@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoHuynh0301&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHuynh0301)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **HaoHuynh0301/HaoHuynh0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
