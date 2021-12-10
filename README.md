@@ -19,8 +19,9 @@
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"/>
 </a>
 
-### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoHuynh0301&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHuynh0301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+| <a href="https://github.com/HaoHuynh0301"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaoHuynh0301&theme=radical&show_icons=true&count_private=true&line_height=25" alt="Anurag's github stats" /></a> | <a href="https://github.com/HaoHuynh0301"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoHuynh0301&theme=radical&layout=compact" /></a> |
+| ------------- | ------------- |
 
 <!--
 **HaoHuynh0301/HaoHuynh0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
