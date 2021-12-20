@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Hao
 - 🔭 I’m student at CanTho University
 - 🌱 I’m currently learning Django
+- I'm a final year student at Can Tho University, and my major is Information of Technology. I'm a passionate person in the information technology industry, and I'm looking forward to talking to people.
 
 ### Connect with me
 <a href="mailto:hao152903@gmail.com">
