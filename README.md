@@ -26,6 +26,6 @@
 <!--
 
 
-Here are some ideas to get you start
+Here are some ideas to get you 
 
 
