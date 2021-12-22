@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hao
-- 🔭 I'm a final year student at Can Tho University, and my major is Information of Technology. I'm a passionate person in the information technology industry, and I'm looking forward to talking to people.
+- 🔭 I am a final year student at Can Tho University, and my major is Information of Technology. I am a passionate person in the information technology industry.
 - 🌱 I’m currently learning Django
 
 ### Connect with me
