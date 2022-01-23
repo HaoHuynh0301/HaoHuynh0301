@@ -1,6 +1,3 @@
-### Hi there 👋, I'm Hao
-- 🔭 I am a final year student at Can Tho University, and my major is Information of Technology. I am a passionate person in the information technology industry.
-
 ### Connect with me
 <a href="mailto:hao152903@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"/>
